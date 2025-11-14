@@ -69,6 +69,7 @@ body{
     border: 3px solid #000;
     border-radius: 10px;
     position: relative;
+    background-color: rgba(173, 216, 230, 0.25);
 }
 /* main - left */
 #left{
